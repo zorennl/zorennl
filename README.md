@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 **`Developer in training`**
 
 ### 🧰 Languages
-🐍Python\
-🦀Learning Rust
+🐍 Python\
+🦀 Learning Rust
+
+### Contact Me
+✉️ zoren@leit.so
