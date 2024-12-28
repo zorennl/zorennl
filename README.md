@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Zoren Leitso
+
+**`Developer in training`**
+
+### 🧰 Languages
+🐍Python\
+🦀Learning Rust
