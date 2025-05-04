@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 🦀 Learning Rust
 
 ### Contact Me
-✉️ zoren@leit.so
+✉️ zmynzdev@gmail.com
