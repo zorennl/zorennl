@@ -18,7 +18,5 @@ Here are some ideas to get you started:
 
 ### 🧰 Languages
 🐍 Python\
-🦀 Learning Rust
-
-### Contact Me
-✉️ zmynzdev@gmail.com
+🦀 Learning Rust\
+🇬 🇴 Go
